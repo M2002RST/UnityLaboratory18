@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 354d4c6f19a31fe47a1e196c340e4b34
+timeCreated: 1625232617
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Torus Knot001
+    100004: Torus Knot002
+    100006: Torus Knot003
+    100008: Torus Knot004
+    100010: Torus Knot005
+    100012: Torus Knot006
+    100014: Torus Knot007
+    100016: Torus Knot008
+    100018: Torus Knot009
+    100020: Torus Knot010
+    100022: Torus Knot011
+    100024: Torus Knot012
+    100026: Torus Knot013
+    100028: Torus Knot014
+    100030: Torus Knot015
+    100032: Torus Knot016
+    100034: Torus Knot017
+    100036: Torus Knot018
+    100038: Torus Knot019
+    100040: Torus Knot020
+    100042: Torus Knot021
+    100044: Torus Knot022
+    100046: Torus Knot023
+    100048: Torus Knot024
+    100050: Torus Knot025
+    100052: Torus Knot026
+    100054: Torus Knot027
+    100056: Torus Knot028
+    100058: Torus Knot029
+    100060: Torus Knot030
+    100062: Torus Knot031
+    100064: Torus Knot032
+    100066: Torus Knot033
+    100068: Torus Knot034
+    100070: Torus Knot035
+    100072: Torus Knot036
+    100074: Torus Knot037
+    100076: Torus Knot038
+    100078: Torus Knot039
+    100080: Torus Knot040
+    100082: Torus Knot041
+    100084: Torus Knot042
+    100086: Torus Knot043
+    100088: Torus Knot044
+    100090: Torus Knot045
+    100092: Torus Knot046
+    100094: Torus Knot047
+    100096: Torus Knot048
+    100098: Torus Knot049
+    100100: Torus Knot050
+    100102: Torus Knot051
+    100104: Torus Knot052
+    100106: Torus Knot053
+    100108: Torus Knot054
+    400000: //RootNode
+    400002: Torus Knot001
+    400004: Torus Knot002
+    400006: Torus Knot003
+    400008: Torus Knot004
+    400010: Torus Knot005
+    400012: Torus Knot006
+    400014: Torus Knot007
+    400016: Torus Knot008
+    400018: Torus Knot009
+    400020: Torus Knot010
+    400022: Torus Knot011
+    400024: Torus Knot012
+    400026: Torus Knot013
+    400028: Torus Knot014
+    400030: Torus Knot015
+    400032: Torus Knot016
+    400034: Torus Knot017
+    400036: Torus Knot018
+    400038: Torus Knot019
+    400040: Torus Knot020
+    400042: Torus Knot021
+    400044: Torus Knot022
+    400046: Torus Knot023
+    400048: Torus Knot024
+    400050: Torus Knot025
+    400052: Torus Knot026
+    400054: Torus Knot027
+    400056: Torus Knot028
+    400058: Torus Knot029
+    400060: Torus Knot030
+    400062: Torus Knot031
+    400064: Torus Knot032
+    400066: Torus Knot033
+    400068: Torus Knot034
+    400070: Torus Knot035
+    400072: Torus Knot036
+    400074: Torus Knot037
+    400076: Torus Knot038
+    400078: Torus Knot039
+    400080: Torus Knot040
+    400082: Torus Knot041
+    400084: Torus Knot042
+    400086: Torus Knot043
+    400088: Torus Knot044
+    400090: Torus Knot045
+    400092: Torus Knot046
+    400094: Torus Knot047
+    400096: Torus Knot048
+    400098: Torus Knot049
+    400100: Torus Knot050
+    400102: Torus Knot051
+    400104: Torus Knot052
+    400106: Torus Knot053
+    400108: Torus Knot054
+    2300000: Torus Knot001
+    2300002: Torus Knot002
+    2300004: Torus Knot003
+    2300006: Torus Knot004
+    2300008: Torus Knot005
+    2300010: Torus Knot006
+    2300012: Torus Knot007
+    2300014: Torus Knot008
+    2300016: Torus Knot009
+    2300018: Torus Knot010
+    2300020: Torus Knot011
+    2300022: Torus Knot012
+    2300024: Torus Knot013
+    2300026: Torus Knot014
+    2300028: Torus Knot015
+    2300030: Torus Knot016
+    2300032: Torus Knot017
+    2300034: Torus Knot018
+    2300036: Torus Knot019
+    2300038: Torus Knot020
+    2300040: Torus Knot021
+    2300042: Torus Knot022
+    2300044: Torus Knot023
+    2300046: Torus Knot024
+    2300048: Torus Knot025
+    2300050: Torus Knot026
+    2300052: Torus Knot027
+    2300054: Torus Knot028
+    2300056: Torus Knot029
+    2300058: Torus Knot030
+    2300060: Torus Knot031
+    2300062: Torus Knot032
+    2300064: Torus Knot033
+    2300066: Torus Knot034
+    2300068: Torus Knot035
+    2300070: Torus Knot036
+    2300072: Torus Knot037
+    2300074: Torus Knot038
+    2300076: Torus Knot039
+    2300078: Torus Knot040
+    2300080: Torus Knot041
+    2300082: Torus Knot042
+    2300084: Torus Knot043
+    2300086: Torus Knot044
+    2300088: Torus Knot045
+    2300090: Torus Knot046
+    2300092: Torus Knot047
+    2300094: Torus Knot048
+    2300096: Torus Knot049
+    2300098: Torus Knot050
+    2300100: Torus Knot051
+    2300102: Torus Knot052
+    2300104: Torus Knot053
+    2300106: Torus Knot054
+    3300000: Torus Knot001
+    3300002: Torus Knot002
+    3300004: Torus Knot003
+    3300006: Torus Knot004
+    3300008: Torus Knot005
+    3300010: Torus Knot006
+    3300012: Torus Knot007
+    3300014: Torus Knot008
+    3300016: Torus Knot009
+    3300018: Torus Knot010
+    3300020: Torus Knot011
+    3300022: Torus Knot012
+    3300024: Torus Knot013
+    3300026: Torus Knot014
+    3300028: Torus Knot015
+    3300030: Torus Knot016
+    3300032: Torus Knot017
+    3300034: Torus Knot018
+    3300036: Torus Knot019
+    3300038: Torus Knot020
+    3300040: Torus Knot021
+    3300042: Torus Knot022
+    3300044: Torus Knot023
+    3300046: Torus Knot024
+    3300048: Torus Knot025
+    3300050: Torus Knot026
+    3300052: Torus Knot027
+    3300054: Torus Knot028
+    3300056: Torus Knot029
+    3300058: Torus Knot030
+    3300060: Torus Knot031
+    3300062: Torus Knot032
+    3300064: Torus Knot033
+    3300066: Torus Knot034
+    3300068: Torus Knot035
+    3300070: Torus Knot036
+    3300072: Torus Knot037
+    3300074: Torus Knot038
+    3300076: Torus Knot039
+    3300078: Torus Knot040
+    3300080: Torus Knot041
+    3300082: Torus Knot042
+    3300084: Torus Knot043
+    3300086: Torus Knot044
+    3300088: Torus Knot045
+    3300090: Torus Knot046
+    3300092: Torus Knot047
+    3300094: Torus Knot048
+    3300096: Torus Knot049
+    3300098: Torus Knot050
+    3300100: Torus Knot051
+    3300102: Torus Knot052
+    3300104: Torus Knot053
+    3300106: Torus Knot054
+    4300000: Torus Knot001
+    4300002: Torus Knot002
+    4300004: Torus Knot003
+    4300006: Torus Knot004
+    4300008: Torus Knot005
+    4300010: Torus Knot006
+    4300012: Torus Knot007
+    4300014: Torus Knot008
+    4300016: Torus Knot009
+    4300018: Torus Knot010
+    4300020: Torus Knot011
+    4300022: Torus Knot012
+    4300024: Torus Knot013
+    4300026: Torus Knot014
+    4300028: Torus Knot015
+    4300030: Torus Knot016
+    4300032: Torus Knot017
+    4300034: Torus Knot018
+    4300036: Torus Knot019
+    4300038: Torus Knot020
+    4300040: Torus Knot021
+    4300042: Torus Knot022
+    4300044: Torus Knot023
+    4300046: Torus Knot024
+    4300048: Torus Knot025
+    4300050: Torus Knot026
+    4300052: Torus Knot027
+    4300054: Torus Knot028
+    4300056: Torus Knot029
+    4300058: Torus Knot030
+    4300060: Torus Knot031
+    4300062: Torus Knot032
+    4300064: Torus Knot033
+    4300066: Torus Knot034
+    4300068: Torus Knot035
+    4300070: Torus Knot036
+    4300072: Torus Knot037
+    4300074: Torus Knot038
+    4300076: Torus Knot039
+    4300078: Torus Knot040
+    4300080: Torus Knot041
+    4300082: Torus Knot042
+    4300084: Torus Knot043
+    4300086: Torus Knot044
+    4300088: Torus Knot045
+    4300090: Torus Knot046
+    4300092: Torus Knot047
+    4300094: Torus Knot048
+    4300096: Torus Knot049
+    4300098: Torus Knot050
+    4300100: Torus Knot051
+    4300102: Torus Knot052
+    4300104: Torus Knot053
+    4300106: Torus Knot054
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
